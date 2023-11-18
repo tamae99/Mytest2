@@ -178,11 +178,6 @@ body{
   width:120px;
   height:40px;
   margin:10px 0;
-  background-color: #383e45;
-  color:white;
-  text-align: center;
-  font-size: 22px;
-  padding-top: 5px;
 }
 
 .title:hover{
